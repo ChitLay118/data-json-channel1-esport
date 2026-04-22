@@ -1,8 +1,7 @@
  [
-                // Old Mahar Sports Channels (Kept and moved here)
+                
                 { id: 201, title: 'မဟာ/PyonePlay Sports HD', url: 'https://cdn-live-pyone.secureswiftcontent.com/han/pyone/sport/HLSoutput/manifest.m3u8', color: 'secondary' }, 
-                { id: 202, title: 'မဟာအီးစပွတ် HD', url: 'https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8', color: 'secondary' }, 
-                // New Sports Channels
+                { id: 202, title: 'မဟာအီးစပွတ် HD', url: 'https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8', color: 'secondary' },
                 { id: 203, title: 'beIN Sports USA', url: 'https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8', color: 'secondary' },
                 { id: 204, title: 'CBS Sports HQ', url: 'http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d', color: 'secondary' },
                 { id: 205, title: 'CBS Golazo', url: 'https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8', color: 'secondary' },
